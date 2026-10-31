@@ -89,7 +89,7 @@ while True:
 ```
 ## Output:
 ## client & server
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/71202fee-9880-41c6-8524-6f843c5bf316" />
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/a79319f7-ee62-4568-8d06-f79d7027b07d" />
 
 
 ## Result:
